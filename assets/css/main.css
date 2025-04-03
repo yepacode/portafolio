@@ -149,27 +149,6 @@ body {
 	-webkit-text-size-adjust: none;
 }
 
-/* Clase para el contenedor: fondo oscuro, espaciado, etc. */
-.custom-img-container {
-	background-color: #333;
-	/* Fondo oscuro */
-	padding: 1rem;
-	/* Ajusta el espaciado interno a tu gusto */
-	border-radius: 8px;
-	/* Curvatura de esquinas si lo deseas */
-}
-
-/* Clase para la imagen: ajustas el ancho, alto en auto para mantener proporción */
-.custom-img {
-	width: 300px;
-	/* Ajusta a tu gusto */
-	height: auto;
-	display: block;
-	/* Para que respete el margin auto si decides centrarla */
-	margin: 0 auto;
-	/* Centra horizontalmente en su contenedor */
-}
-
 /* Box Model */
 
 *,
